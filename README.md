@@ -1,111 +1,83 @@
-# 👋 Beatriz Teixeira
+<h1 align="center">Beatriz Teixeira</h1>
 
-<div align="center">
-
-# 📊 Business Intelligence | Power BI | SQL | Data Analytics
-
-[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
-
-</div>
+<p align="center">
+  <strong>Analista de Dados Jr · Business Intelligence · Engenharia de Software</strong><br>
+  Manaus, AM · Disponível para posições remotas
+</p>
 
 ---
 
-# 🇧🇷 Português
+## Sobre mim
 
-Sou estudante de Engenharia de Software em transição para a área de Business Intelligence, unindo experiência comercial B2B, visão estratégica e desenvolvimento técnico em dados.
+Comecei minha trajetória profissional aos 17 anos e passei os últimos 4 anos trabalhando com dados na prática — analisando performance de sell-in e sell-out de uma carteira de 12 distribuidores, automatizando relatórios gerenciais e traduzindo indicadores em decisões estratégicas em empresas como **Duracell** e **Supergiro Distribuidora**.
 
-Atualmente, direciono meus estudos para SQL, Power BI, modelagem de dados e construção de dashboards com foco em transformar dados em informação útil para tomada de decisão.
+Hoje, cursando Engenharia de Software (FUCAPI · previsão dez/2026), estou aprofundando meu stack técnico em SQL, Power BI e Python para construir soluções mais robustas e escaláveis.
 
-## 🚀 Objetivo
-
-Atuar como Analista de BI, Analista de Dados Jr. ou áreas correlatas.
-
-## 🛠️ Stack atual
-
-* SQL
-* Power BI
-* Excel
-* Modelagem de Dados
-* ETL
-* Git e GitHub
-
-## 📚 Atualmente estudando
-
-* SQL para análise de dados
-* Power BI avançado
-* ETL
-* Data Warehouse
-* Storytelling com Dados
-
-## 📌 Projetos em desenvolvimento
-
-Atualmente estou desenvolvendo projetos práticos voltados para Business Intelligence, com foco em análise comercial, dashboards e indicadores de desempenho.
-
-* 📈 Dashboard de Performance Comercial
-
-  * Faturamento, ticket médio, metas e ranking de clientes
-
-* 🎯 Dashboard de Campanhas e Positivação
-
-  * Positivação por CNPJ, metas e desempenho por equipe
-
-* 📊 Dashboard de Indicadores de Vendas
-
-  * KPIs, evolução de vendas e análise de resultados
-
-## 📫 Contato
-
-* 💼 LinkedIn: [www.linkedin.com/in/beatriz-t](http://www.linkedin.com/in/beatriz-t)
-* 📧 E-mail: [teixeirabarbosa.bea@gmail.com](mailto:teixeirabarbosa.bea@gmail.com)
+> Não sou apenas alguém aprendendo dados — sou alguém que já usou dados para gerar resultado real em ambientes corporativos, e agora está adquirindo o ferramental técnico para fazer isso em escala.
 
 ---
 
-# 🇺🇸 English
+## Stack
 
-I am a Software Engineering student transitioning into the Business Intelligence field, combining B2B commercial experience, business vision, and technical development in data.
+**Dados & BI**
 
-I am currently focused on studying SQL, Power BI, data modeling, and dashboard development to transform data into meaningful insights for decision-making.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel%20Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009845?style=flat&logoColor=white)
 
-## 🚀 Goal
+**Engenharia**
 
-To work as a BI Analyst, Junior Data Analyst, or related roles.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🛠️ Current Stack
+**Negócio & Mercado**
 
-* SQL
-* Power BI
-* Excel
-* Data Modeling
-* ETL
-* Git & GitHub
+`Market Intelligence` `KPIs Comerciais` `Sell-in / Sell-out` `Nielsen` `Scanntech` `ERP WinThor`
 
-## 📚 Currently Studying
+---
 
-* SQL for data analysis
-* Advanced Power BI
-* ETL
-* Data Warehouse
-* Data Storytelling
+## Projetos
 
-## 📌 Projects in Progress
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🔗 [Site — Tributo à Ada Lovelace](https://abeatrizt.github.io/Site-Ada/) | Landing page responsiva com HTML semântico, CSS e JavaScript. Deploy via GitHub Pages. | HTML · CSS · JS · Git |
+| 🚧 Dashboard de Performance Comercial | Análise de faturamento, ticket médio, metas e ranking de clientes em dados reais de varejo. | Power BI · SQL · Excel |
+| 🚧 Análise de Sell-out & Rentabilidade | Pipeline de tratamento e visualização de dados comerciais com foco em margem e ruptura. | Python · pandas · Power BI |
 
-I am currently building practical Business Intelligence projects focused on commercial analysis, dashboards, and performance indicators.
+> 🚧 Projetos de dados em desenvolvimento — publicação prevista em breve.
 
-* 📈 Commercial Performance Dashboard
+---
 
-  * Revenue, average ticket, goals, and customer ranking
+## Experiência com dados (resumo)
 
-* 🎯 Campaign & Sell-Out Dashboard
+- **The Duracell Company** · Sales Intern (Data & Strategy) · mar/2024 – mar/2026  
+  Dashboards e relatórios gerenciais em Excel Avançado · Análise de sell-in, sell-out e rentabilidade · Market Intelligence via Nielsen e Scanntech
 
-  * Goals, CNPJ tracking, and team performance
+- **Supergiro Distribuidora** · Assistente de Dados Comerciais & BI · mar/2022 – mar/2024  
+  Extração e modelagem de dados via Qlik Sense · Dashboards analíticos para suporte à liderança · Governança e automação de relatórios
 
-* 📊 Sales KPI Dashboard
+---
 
-  * KPIs, sales evolution, and performance analysis
+## Formação
 
-## 📫 Contact
+🎓 **Bacharelado em Engenharia de Software** — FUCAPI · fev/2022 – dez/2026 (em andamento)  
+Coeficiente: 8,2 · Disciplinas: Banco de Dados · Probabilidade e Estatística · Modelagem de Sistemas · Gerência de Projetos
 
-* 💼 LinkedIn: [www.linkedin.com/in/beatriz-t](http://www.linkedin.com/in/beatriz-t)
-* 📧 E-mail: [teixeirabarbosa.bea@gmail.com](mailto:teixeirabarbosa.bea@gmail.com)
+---
 
+## Contato
 
+<p>
+  <a href="https://www.linkedin.com/in/beatriz-t">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:teixeirabarbosa.bea@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
